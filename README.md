@@ -49,3 +49,8 @@ BSD : $ ps aux
 * `$ ps auxf`: 실행 중인 프로세스를 트리 구조로 보여줌
 * `$ ps auxfww`: 실행 중인 프로세스를 트리구조 + 모든 실행 중인 옵션 확인 가능
 * **※ ww 옵션을 제외하면 모든 라인이 다 안 보이지만, ww 옵션을 넣으면 다 보입니다.** 
+* **ww을 안 했을 때**
+![image01](https://github.com/mynameeunsungieu/20233058homework.c/assets/133843502/d2f90a35-8511-4a7d-9d8d-32c19c7abd07)
+* **ww을 했을 때**
+![image02](https://github.com/mynameeunsungieu/20233058homework.c/assets/133843502/c15b4a8b-7446-4f3f-a7f7-5506d2e7c77d)
+
